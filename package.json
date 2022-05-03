@@ -1,0 +1,17 @@
+{
+  "name": "parcel-ts-bug",
+  "version": "1.0.0",
+  "repository": "git@github.com:Levino/parcel-ts-bug.git",
+  "author": "Levin Keller <post@levinkeller.de>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "@parcel/packager-ts": "2.5.0",
+    "@parcel/transformer-typescript-types": "2.5.0",
+    "parcel": "^2.5.0",
+    "typescript": ">=3.0.0"
+  },
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}

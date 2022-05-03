@@ -1,0 +1,1 @@
+{"mappings":"ACEA,OAAO,MAAM;;CAEX,CAAA","sources":["src/src/user.ts","src/src/index.ts","src/index.ts"],"sourcesContent":[null,null,"import {getUser} from \"./user\";\n\nexport const createDatabase = () => ({\n    getUser\n})"],"names":[],"version":3,"file":"index.d.ts.map"}
